@@ -26,5 +26,6 @@
   },
   "devDependencies": {
     "concurrently": "^4.1.0"
-  }
+  },
+  "heroku-hostbuild": "npm run client:build"
 }
